@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gsogaming
 - 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning Unity Game Development
+- 🌱 I’m currently working as a Unity Tutor
 - 💞️ I’m looking to collaborate on my own project for the moment.
 - 📫 How to reach me >>> gokselserkanoguz@gmail.com
 
